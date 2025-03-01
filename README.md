@@ -34,7 +34,12 @@ First step is to create a resource group, this one will be different from the ot
 <br />
 <br />  
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/VM%20set%20up%201.PNG?raw=true" height="90%" width="80%"  />
-
+<br />
+<br />  
+This step will be the same as my networking guide, but be sure to to select the windows server for your image like in the photo.
+<br />
+<br />  
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/VM%20set%20up%201.5.PNG?raw=true" height="90%" width="80%"  />
 
 
    
