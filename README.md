@@ -52,7 +52,10 @@ Here  we have to set the ip to static so the private ip stays the same when the 
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/VM%20setup%203.0.PNG?raw=true" height="50%" width="40%"  />
 <br />
 <br />
-<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/VM%20setup%202.5.PNG?raw=true" height="90%" width="80%"  />
+ In this section click on the "Network interface /ip configuration" Link thats there.
+<br />
+<br />  
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/VM%20setup%203.5.PNG?raw=true" height="90%" width="80%"  />
 
 
 
