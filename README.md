@@ -46,10 +46,14 @@ This step will be the same as my networking guide, but be sure to to select the 
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/VM%20setup%202.5.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br /> 
-Here  we have to set the ip to static so the private ip stays the same when the virtual machine powers down.
+Here  we have to set the ip to static so the private ip stays the same when the virtual machine powers down. In the networking section click on network settings, make sure you are on the server virtual machine.
 <br />
 <br />    
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/VM%20setup%203.0.PNG?raw=true" height="50%" width="40%"  />
+<br />
+<br />
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/VM%20setup%202.5.PNG?raw=true" height="90%" width="80%"  />
+
 
 
 
