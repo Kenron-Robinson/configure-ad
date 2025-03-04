@@ -98,6 +98,26 @@ Now after that is done, we have to create the client virtual machine. Be sure to
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/2%20VM%20setup%203.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
+After this virtual machine is set up you will need to give the virtual machine the same ip address as the domain controller. Its pretty much the same steps as with the domain controller except you need to make changes to the ip.
+<br />
+<br />
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/2%20VM%20DNS%20change%20to%20server%20private%20IP.PNG?raw=true" height="90%" width="80%"  />
+ <br />
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/2%20VM%20dns%20ip%20change%202.PNG?raw=true" height="90%" width="80%"  />
+ <br />
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/2%20VM%20dnc%20ip%20change.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+When this is done, Log into the client virtual machine. Open up powershell by searching for it in the windows search bar and ping the domain controller.
+<br />
+<br /> 
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Capture%202%20VM%20ping%20to%20the%20server%20.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br /> 
+Now run ipconfig /all in powershell to ensure that the ip address is the same as the domain controller.
+<br />
+<br />  
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/2%20VM%20confirm%20to%20the%20server%20.PNG?raw=true" height="90%" width="80%"  />
 
 
 
