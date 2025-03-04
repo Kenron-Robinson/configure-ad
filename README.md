@@ -86,6 +86,18 @@ Click on windows defender firewall properties and disable the firewall. do this 
 <br />
 <br /> 
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/server%20step%203.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+Now after that is done, we have to create the client virtual machine. Be sure to add this virtual machine to the same region and virtual network as the server/Domain controller. Follow thses steps. 
+<br />
+<br /> 
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/2%20VM%20setup%201%20.PNG?raw=true" height="90%" width="80%"  />
+<br /> 
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/2%20VM%20setup%202.PNG?raw=true" height="90%" width="80%"  />
+<br /> 
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/2%20VM%20setup%203.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
 
 
 
