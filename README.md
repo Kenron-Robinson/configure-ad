@@ -54,6 +54,18 @@ Here  we have to set the ip to static so the private ip stays the same when the 
 <br />
  In this section click on the "Network interface /ip configuration" Link thats there.
 <br />
+<br /> 
+Here you want to edit the ipconfig at the bottom.
+<br />
+<br />  
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/VM%20setup%204.0.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br /> 
+ Change it from dynamic to static.
+<br />
+<br />  
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/VM%20setup%204.5.PNG?raw=true" height="90%" width="80%"  />
+<br />
 <br />  
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/VM%20setup%203.5.PNG?raw=true" height="90%" width="80%"  />
 
