@@ -61,7 +61,6 @@ Here  we have to set the ip to static so the private ip stays the same when the 
 Here you want to edit the ipconfig at the bottom.
 <br />
 <br />
- 
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/VM%20setup%204.0.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
@@ -69,6 +68,24 @@ Change it from dynamic to static.
 <br />
 <br />  
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/VM%20setup%204.5.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+ Now use remote desktop to log into the server/domain controller virtual machine. should look like this when you sign in 
+<br />
+<br />
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/server%20step%201.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+ Here you will need to disable the windows firewall. Go to the control panel, search for it in the windows search bar. In the control panel section select system security. Should look like this.:
+<br />
+<br />
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/server%20step%202.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+Click on windows defender firewall properties and disable the firewall. do this for the domain,private, and public profiles.:
+<br />
+<br /> 
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/server%20step%203.PNG?raw=true" height="90%" width="80%"  />
 
 
 
