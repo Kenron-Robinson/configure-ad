@@ -158,6 +158,10 @@ Now run ipconfig /all in powershell to ensure that the ip address is the same as
  <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Promote%20server%204.%20PNG.PNG?raw=true" height="90%" width="80%"  />
   <br />
  <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Promote%20server%205.PNG?raw=true" height="90%" width="80%"  />
+ <br />
+ <br />
+ Now restart the virtual machine but be sure to login with the netbios domain name you set up before. It should look like this "mydomain.com\labuser
+" but use the name you chose with the orginal login.
  
 
 
