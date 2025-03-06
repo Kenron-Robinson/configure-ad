@@ -161,7 +161,7 @@ Now run ipconfig /all in powershell to ensure that the ip address is the same as
  <br />
  <br />
  Now restart the virtual machine but be sure to login with the netbios domain name you set up before. It should look like this "mydomain.com\labuser
-" but use the name you chose with the orginal login.
+" but use the name you chose with the orginal login. Once you are in we will start by setting up the orgnizatnal unit.
  
 
 
