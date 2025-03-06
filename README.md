@@ -152,7 +152,7 @@ Now run ipconfig /all in powershell to ensure that the ip address is the same as
  <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Promote%20server%203.PNG?raw=true" height="90%" width="80%"  />
  <br />
  <br />
-  Here be sure to remember this name .
+  Here be sure to remember this name, but of course name it whatever wish .
  <br />
  <br />
  <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Promote%20server%204.%20PNG.PNG?raw=true" height="90%" width="80%"  />
