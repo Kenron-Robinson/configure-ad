@@ -118,6 +118,29 @@ Now run ipconfig /all in powershell to ensure that the ip address is the same as
 <br />
 <br />  
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/2%20VM%20confirm%20to%20the%20server%20.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+ This concludes the virtual machines set up. Now we move onto the configuration of active directory. Log back into the server/domain controller, click on add roles and features inside of the server manager.
+<br />
+<br />
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Installing%20AD.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+ Follow the installation steps for the active directory  
+<br />
+<br />
+ <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Installing%20AD%201.PNG?raw=true" height="90%" width="80%"  />
+ <br />
+ <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Installing%20AD%202.PNG?raw=true" height="90%" width="80%"  />
+ <br />
+ <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Installing%20AD%203.PNG?raw=true" height="90%" width="80%"  />
+ <br />
+ <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Installing%20AD%204.PNG?raw=true" height="90%" width="80%"  />
+ <br />
+ <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Installing%20AD%205.PNG?raw=true" height="90%" width="80%"  />
+ <br />
+ <br />
+
 
 
 
