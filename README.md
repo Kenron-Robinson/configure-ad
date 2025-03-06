@@ -126,7 +126,7 @@ Now run ipconfig /all in powershell to ensure that the ip address is the same as
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Installing%20AD.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
- Follow the installation steps for the active directory  
+ Follow the installation steps for active directory  
 <br />
 <br />
  <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Installing%20AD%201.PNG?raw=true" height="90%" width="80%"  />
@@ -140,6 +140,21 @@ Now run ipconfig /all in powershell to ensure that the ip address is the same as
  <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Installing%20AD%205.PNG?raw=true" height="90%" width="80%"  />
  <br />
  <br />
+ Now click on "Promote this server to a domain controller" and follow the steps. At some point it will ask to set up a forest, you can name it anything you may like but be sure to remember it.
+ <br />
+ <br />
+ <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Promote%20server%20to%20domain%20controller%20(After%20AD%205)%20.PNG?raw=true" height="90%" width="80%"  />
+ <br />
+ <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Promote%20server%201.PNG?raw=true" height="90%" width="80%"  />
+ <br />
+ <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Promote%20server%202.PNG?raw=true" height="90%" width="80%"  />
+ <br />
+ <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Promote%20server%203.PNG?raw=true" height="90%" width="80%"  />
+ <br />
+ <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Promote%20server%204.%20PNG.PNG?raw=true" height="90%" width="80%"  />
+  <br />
+ <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Promote%20server%205.PNG?raw=true" height="90%" width="80%"  />
+ 
 
 
 
