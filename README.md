@@ -161,7 +161,21 @@ Now run ipconfig /all in powershell to ensure that the ip address is the same as
  <br />
  <br />
  Now restart the virtual machine but be sure to login with the netbios domain name you set up before. It should look like this "mydomain.com\labuser
-" but use the name you chose with the orginal login. Once you are in we will start by setting up the orgnizatnal unit.
+" but use the name you chose with the orginal login. Once you are in we will start by setting up the organizational unit.Search for "Active Directory Users and Computers".
+<br />
+<br />
+ <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/AD%20OU%20setup.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+ Click on the dropdown arrow next to the domain name, then click on the domain name and in the right panel, right click and go to new and add a new organizational unit. One for admins and one for employees.
+<br />
+<br />
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/AD%20OU%20setup%201.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/AD%20OU%20setup%202.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+
  
 
 
