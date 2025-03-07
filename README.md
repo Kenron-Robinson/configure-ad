@@ -210,6 +210,22 @@ Now our user is in the admin section but they are not considered a admin yet we 
 <br />
 <br />
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/AD%20setting%20a%20admin%203.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+ Next we have to give permissions for all remote users to be able to connect to the domain. Go to the windows search bar and go to settings, then go to remote desktop.
+<br />
+<br />
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Jane_admin%20giving%20permissions%20to%20domain%20uesrs.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+Same process as last time when we added our admin to the security group. This time you will type "Domain Users".
+<br />
+<br /> 
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Jane_admin%20permissions%20domain%20users%202.PNG?raw=true" height="90%" width="80%"  />
+<br />  
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Jane_admin%20domain%20users%203.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br /> 
 
  
 
