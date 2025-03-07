@@ -194,6 +194,22 @@ Uncheck the first box because you will be setting the password here.
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/AD%20making%20a%20admin%202.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br /> 
+Now our user is in the admin section but they are not considered a admin yet we have to set it inside of the security group. Right click on the user and select properties.
+<br />
+<br />  
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/AD%20setting%20a%20admin%20.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br /> 
+ go to the "Member Of" section, click add and a window should show up.
+<br />
+<br />
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/AD%20setting%20a%20admin%202.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br /> 
+ Within this window copy whats in the image. This will add the user to the group as admin giving them exclusive permissions.
+<br />
+<br />
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/AD%20setting%20a%20admin%203.PNG?raw=true" height="90%" width="80%"  />
 
  
 
