@@ -175,6 +175,25 @@ Now run ipconfig /all in powershell to ensure that the ip address is the same as
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/AD%20OU%20setup%202.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
+Once this is done go to the admins section you just created and add a new user.
+<br />
+<br /> 
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/AD%20making%20an%20admin%20.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br /> 
+ Here set up the users name, password, and email. This user will be admin and we will be logging in as this user throughout the rest of the guide.
+ Note that the username for this user will have the domain name in the beginning. same as when you logged on before.
+<br />
+<br />
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/AD%20making%20a%20admin%201%20(After%20AD%20OU)%20.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br /> 
+Uncheck the first box because you will be setting the password here.
+<br />
+<br /> 
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/AD%20making%20a%20admin%202.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br /> 
 
  
 
