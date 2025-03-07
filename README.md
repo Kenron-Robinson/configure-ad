@@ -206,7 +206,7 @@ Now our user is in the admin section but they are not considered a admin yet we 
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/AD%20setting%20a%20admin%202.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br /> 
- Within this window copy whats in the image. This will add the user to the group as admin giving them exclusive permissions.
+ Within this window copy whats in the image. This will add the user to the group as admin giving them exclusive permissions. After this login as this user.
 <br />
 <br />
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/AD%20setting%20a%20admin%203.PNG?raw=true" height="90%" width="80%"  />
