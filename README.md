@@ -236,7 +236,7 @@ Now log back into the domain controller virtual machine and verify that the clie
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/verifing%20client%201%20is%20in%20the%20domain.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
- Next we have to give permissions for all remote users to be able to connect to the domain. Go to the windows search bar and go to settings, then go to remote desktop.
+ Next we have to give permissions for all remote users to be able to connect to the domain. Go to the windows search bar and go to settings, then go to remote desktop. Note you are doing this on the client vm as your admin.
 <br />
 <br />
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Jane_admin%20giving%20permissions%20to%20domain%20uesrs.PNG?raw=true" height="90%" width="80%"  />
