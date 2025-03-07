@@ -230,6 +230,12 @@ Now our user is in the admin section but they are not considered a admin yet we 
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Joining%20the%20client%20to%20the%20domain%202.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
+Now log back into the domain controller virtual machine and verify that the client virtual machine is showing in active directory. Go to the computers section to see it. 
+<br />
+<br /> 
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/verifing%20client%201%20is%20in%20the%20domain.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
  Next we have to give permissions for all remote users to be able to connect to the domain. Go to the windows search bar and go to settings, then go to remote desktop.
 <br />
 <br />
