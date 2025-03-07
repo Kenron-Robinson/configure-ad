@@ -206,10 +206,28 @@ Now our user is in the admin section but they are not considered a admin yet we 
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/AD%20setting%20a%20admin%202.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br /> 
- Within this window copy whats in the image. This will add the user to the group as admin giving them exclusive permissions. After this login as this user.
+ Within this window copy whats in the image. This will add the user to the group as admin giving them exclusive permissions. After this login into the client virtual machine as the orignal admin user (The username you used to make the machine with the domain added to the front of it).
 <br />
 <br />
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/AD%20setting%20a%20admin%203.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+ Once Logged in go to windows settings,then the about page. On the right side panel click on "rename pc(advanced)". A window should show up, right below network id click the change button.
+<br />
+<br /> 
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Joining%20the%20client%20with%20the%20domain.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+ Here you will need to put the domain name (Netbios domain) of the domain you want to connect to.
+<br />
+<br />
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Joining%20the%20client%20to%20the%20domain%201.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+ Here you will also use your admin's username and password.
+<br />
+<br />
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Joining%20the%20client%20to%20the%20domain%202.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
  Next we have to give permissions for all remote users to be able to connect to the domain. Go to the windows search bar and go to settings, then go to remote desktop.
