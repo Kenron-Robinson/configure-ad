@@ -250,6 +250,12 @@ Same process as last time when we added our admin to the security group. This ti
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Jane_admin%20domain%20users%203.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br /> 
+Once this is done go back to the active directory within the domain controller and add a Organizational unit called clients.
+<br />
+<br />  
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Create%20a%20new%20OU%20called%20clients%20(After%20verfing%20the%20client%20vm%20is%20in%20the%20domain).PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
 
  
 
