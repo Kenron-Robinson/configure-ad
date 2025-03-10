@@ -270,7 +270,7 @@ Once signed in go to the windows search bar an open powershell_ise as admin. Cre
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Creating%20users%20as%20jane_admin%20.PNG?raw=true" height="90%" width="80%"  />
 <br /> 
 <br />
- Click on the green arrow next to the help button to run the script. let it run until you have 50 users, its set to make 10000 but you really on need 30 to 50 to expriment with.
+ Click on the green arrow next to the help button to run the script. let it run until you have 50 users, its set to make 10000 but you really on need 30 to 50 to experiment with.
 <br /> 
 <br /> 
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Creating%20users%20as%20jane_admin%203.PNG?raw=true" height="90%" width="80%"  />
@@ -280,7 +280,7 @@ Once signed in go to the windows search bar an open powershell_ise as admin. Cre
 <br /> 
 
  
-<h3>This concludes the set up portion for active directory. This will give you what you need to expriment with account lockouts,resetting passwords, and giving users certain permissions from within active directory. I hope with this guide it was simple and easy to follow. Next part I will go over some use cases for using active directory. </h3>
+<h3>This concludes the set up portion for active directory. This will give you what you need to expriment with account lockouts,resetting passwords, and giving users certain permissions from within active directory. I hope with this guide it was simple and easy to follow.  </h3>
 
 
 
