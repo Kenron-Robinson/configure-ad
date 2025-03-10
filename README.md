@@ -250,15 +250,37 @@ Same process as last time when we added our admin to the security group. This ti
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Jane_admin%20domain%20users%203.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br /> 
-Once this is done go back to the active directory within the domain controller and add a Organizational unit called clients.
+Once this is done go back to the active directory within the domain controller and add a Organizational unit called clients. Then drag client 1 into that OU (Organizational Unit).
 <br />
 <br />  
 <img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Create%20a%20new%20OU%20called%20clients%20(After%20verfing%20the%20client%20vm%20is%20in%20the%20domain).PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
+Now that this is done you will need to log into the domain controller as your admin.
+<br />
+<br />
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Signing%20back%20in%20as%20admin%20(Jane_admin).PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+Once signed in go to the windows search bar an open powershell_ise as admin. Create a new file and paste the script into the file. Link for the script "https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1".
+<br />
+<br /> 
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Creating%20users%20as%20jane_admin.PNG?raw=true" height="90%" width="80%"  />
+<br /> 
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Creating%20users%20as%20jane_admin%20.PNG?raw=true" height="90%" width="80%"  />
+<br /> 
+<br />
+ Click on the green arrow next to the help button to run the script. let it run until you have 50 users, its set to make 10000 but you really on need 30 to 50 to expriment with.
+<br /> 
+<br /> 
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Creating%20users%20as%20jane_admin%203.PNG?raw=true" height="90%" width="80%"  />
+<br />  
+<img src="https://github.com/Kenron-Robinson/configure-ad/blob/main/images/Creating%20users%20as%20jane_admin%204.PNG?raw=true" height="90%" width="80%"  />
+<br /> 
+<br /> 
 
  
-
+<h3>This concludes the set up portion for active directory. This will give you what you need to expriment with account lockouts,resetting passwords, and giving users certain permissions from within active directory. I hope with this guide it was simple and easy to follow. Next part I will go over some use cases for using active directory. </h3>
 
 
 
